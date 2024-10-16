@@ -24,27 +24,27 @@
   },
   "quadrants": [
     {
-      "id": "community",
-      "title": "City Networks",
-      "description": "These projects create physical communities that are connected and governed through digital infrastructure, such as blockchain or DAOs",
+      "id": "autonomy",
+      "title": "Protocols",
+      "description": "Key protocols and standards ensuring security, decentralization and interoperability",
       "color": "#6a6587"
     },
     {
       "id": "state",
-      "title": "Virtual Legal Spaces",
-      "description": "Fully digital communities offering citizenship, governance, and jurisdiction through online platforms and blockchain technology",
+      "title": "Governance",
+      "description": "Physical and digital spaces, economic or political zones within existing states that enjoy a high level of autonomy",
       "color": "#4c4871"
     },
     {
       "id": "micronation",
-      "title": "Micro-Society Units",
-      "description": "Small physical or virtual entities striving for independence and sovereignty",
+      "title": "Infrastructure",
+      "description": "Technologies and platforms for deploying and maintaining the infrastructural of network state",
       "color": "#383053"
     },
     {
-      "id": "autonomy",
-      "title": "Autonomous Regions",
-      "description": "Economic or political zones within existing states that enjoy a high level of autonomy, often with their own legal and economic frameworks",
+      "id": "community",
+      "title": "Community",
+      "description": "Communities and tools for building communities whose purpose is certain aspects of the implementation of the network state",
       "color": "#403760"
     }
   ],
